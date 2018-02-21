@@ -38,7 +38,7 @@ v1.0                                                 easymap                    
  | | |  __/ | | | | |  __/ | | | | | |_) |  __/ |  |_|
  |_|  \___|_| |_| |_|\___|_| |_| |_|_.__/ \___|_|  (_)
  
- ALL SQL MAPPING TAT OCCURRS WITHOUT THE SITE OWNERS CONSENT 
+ ALL SQL MAPPING THAT OCCURRS WITHOUT THE SITE OWNERS CONSENT 
  IS ILLEGAL, AND WE ARE NOT RESPONSIBLE FOR ANY TROUBLE YOU 
  GET YOURSELF INTO!   
   """)
